@@ -13,7 +13,7 @@ function updateSubtotal(product) {
 
   subtotalElement.innerText = subtotalPrice;
   
-  return subtotalPrice;
+  return subtotalElement
 }
 
 function calculateAll() {
